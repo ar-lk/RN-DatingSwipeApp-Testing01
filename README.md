@@ -1,4 +1,8 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a test app to initialize dating swipe feature like in Tinder and Bumble using react native app.
+
+### Preview
+
+![](https://github.com/ar-lk/RN-DatingSwipeApp-Testing01/blob/main/sample/sample_video.gif)
 
 # Getting Started
 
